@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AETHER</string>
+    <string name="brand_title">AETHER // BIO-TELEMETRY &amp; CREW MEDICAL COMMAND</string>
+    <string name="brand_engineer">ENGINEERED BY SARAJTEAM40</string>
+    <string name="brand_tag">SARAJTEAM40</string>
+    <string name="sys_online">SYS ONLINE // TELEMETRY LOCK</string>
+    <string name="met_label">MISSION ELAPSED TIME</string>
+    <string name="shielding_label">RADIATION SHIELDING</string>
+    <string name="scenario_injection_label">SCENARIO INJECTION</string>
+    <string name="crew_roster_title">CREW ROSTER // EXPEDITION 74</string>
+    <string name="ecg_title">LEAD II ECG // REAL-TIME WAVEFORM</string>
+    <string name="ecg_calibration">25 mm/s // 10 mm/mV // FILTER 0.5–40 Hz</string>
+    <string name="biometrics_section_title">PRIMARY BIOMETRIC TELEMETRY</string>
+    <string name="space_med_section_title">AEROSPACE PHYSIOLOGY &amp; DOSIMETRY</string>
+    <string name="ared_title">ARED RESISTIVE EXERCISE COMPLIANCE</string>
+    <string name="circadian_fluid_title">CIRCADIAN ALIGNMENT &amp; CEPHALAD FLUID SHIFT</string>
+    <string name="dosimetry_title">GCR vs. SPE CUMULATIVE DOSIMETRY (600 mSv LIMIT)</string>
+    <string name="triage_title">FLIGHT SURGEON AUTOMATED TRIAGE LOG</string>
+    <string name="ack_execute">ACK &amp; EXECUTE</string>
+    <string name="countermeasure_active">COUNTERMEASURE ACTIVE</string>
+</resources>
